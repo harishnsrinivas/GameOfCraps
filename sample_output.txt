@@ -1,0 +1,35 @@
+Round 1  
+Strategy : Even wager  |  Games played : 20  | Ending balance : 800 
+
+Strategy : Martingale system  |  Games played : 20  | Ending balance : 400 
+
+Strategy : Reverse Martingale system  |  Games played : 20  | Ending balance : 1500 
+
+Round 2  
+Strategy : Even wager  |  Games played : 20  | Ending balance : 600 
+
+Strategy : Martingale system  |  Games played : 20  | Ending balance : 600 
+
+Strategy : Reverse Martingale system  |  Games played : 20  | Ending balance : 1700 
+
+Round 3  
+Strategy : Even wager  |  Games played : 20  | Ending balance : 600 
+
+Strategy : Martingale system  |  Games played : 14  | Ending balance : 0 
+
+Strategy : Reverse Martingale system  |  Games played : 20  | Ending balance : 1900 
+
+Round 4  
+Strategy : Even wager  |  Games played : 20  | Ending balance : 800 
+
+Strategy : Martingale system  |  Games played : 20  | Ending balance : 1000 
+
+Strategy : Reverse Martingale system  |  Games played : 20  | Ending balance : 800 
+
+Round 5  
+Strategy : Even wager  |  Games played : 20  | Ending balance : 1400 
+
+Strategy : Martingale system  |  Games played : 20  | Ending balance : 400 
+
+Strategy : Reverse Martingale system  |  Games played : 20  | Ending balance : 1500 
+
